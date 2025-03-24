@@ -1,10 +1,10 @@
 # **🩺 Detection of Lung Infection Using Machine Learning**
 
-**🚀 Overview:**
+# **_🚀 Overview:_**
 
 The Detection of Lung Infection project utilizes deep learning to analyze X-ray images and detect lung infections such as pneumonia and tuberculosis with high accuracy. A Convolutional Neural Network (CNN) model has been trained to classify infected and non-infected lung images, providing an efficient, automated solution for early diagnosis.
 
-**✨ Features:**
+# **_✨ Features:_**
 
 **•	Deep Learning-Based Detection:** Uses CNNs to classify lung X-ray images.
 
@@ -16,7 +16,7 @@ The Detection of Lung Infection project utilizes deep learning to analyze X-ray 
 
 **•	Scalable & Efficient:** Designed for real-world applications in healthcare.
 
-**🛠️ Tech Stack:**
+# **_🛠️ Tech Stack:_**
 
 **•	Programming Language:** Python
 
@@ -30,7 +30,7 @@ The Detection of Lung Infection project utilizes deep learning to analyze X-ray 
 
 **•	Optimization:** Transfer learning and hyperparameter tuning
 
-**🔥 Future Enhancements:**
+# **_🔥 Future Enhancements:_**
 
 **•	Multi-Class Classification:** Detect different lung diseases in a single model.
 
